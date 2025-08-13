@@ -1,0 +1,131 @@
+id: query1
+type: datasource
+subtype: RetoolAIQuery
+resourceName: retool_ai
+resourceDisplayName: retool_ai
+template:
+  vectorNamespaceIds: []
+  vectorDynamicUrls: ''
+  queryRefreshTime: ''
+  allowedGroupIds: []
+  vectorActionNamespaceDynamicModeEnabled: false
+  vectorCreateAndFetchDynamicModeEnabled: false
+  streamResponse: true
+  imageClassifierDynamicLabels: ''
+  lastReceivedFromResourceAt: null
+  vectorSemanticSearchString: ''
+  isFunction: false
+  functionParameters: null
+  queryDisabledMessage: ''
+  customTemperature: '1'
+  servedFromCache: false
+  offlineUserQueryInputs: ''
+  functionDescription: null
+  successMessage: ''
+  queryDisabled: ''
+  playgroundQuerySaveId: latest
+  workflowParams: null
+  resourceNameOverride: ''
+  runWhenModelUpdates: false
+  workflowRunExecutionType: sync
+  showFailureToaster: true
+  vectorUrls: []
+  customSystemMessage: ''
+  textExtractorDynamicLabels: ''
+  imageExtractorLabels: []
+  query: ''
+  playgroundQueryUuid: ''
+  imageExtractorDynamicModeEnabled: false
+  playgroundQueryId: null
+  error: null
+  workflowRunBodyType: raw
+  privateParams: []
+  model: gpt-4o-mini
+  queryRunOnSelectorUpdate: false
+  runWhenPageLoadsDelay: ''
+  data: null
+  defaultModelInitialized: true
+  providerId: retoolAIBuiltIn::openAI
+  textClassifierLabels: []
+  textClassifierDynamicModeEnabled: false
+  importedQueryInputs: {}
+  instruction: ggg
+  isImported: false
+  imageModel: dall-e-3
+  showSuccessToaster: true
+  fileUseDynamicSource: false
+  cacheKeyTtl: ''
+  requestSentTimestamp: null
+  metadata: {}
+  textClassifierDynamicLabels: ''
+  queryRunTime: null
+  changesetObject: ''
+  offlineOptimisticResponse: null
+  errorTransformer: return data.error
+  finished: null
+  embeddingModel: text-embedding-ada-002
+  confirmationMessage: null
+  isFetching: false
+  changeset: ''
+  chatInput: ''
+  rawData: null
+  vectorNamespaceId: ''
+  queryTriggerDelay: '0'
+  resourceTypeOverride: null
+  watchedParams: []
+  vectorDynamicNamespaces: ''
+  enableErrorTransformer: false
+  imageExtractorDynamicLabels: ''
+  multimodalModel: gpt-4o
+  showLatestVersionUpdatedWarning: false
+  vectorActionDynamicNamespace: ''
+  dynamicModelName: ''
+  timestamp: 0
+  evalType: script
+  textExtractorDynamicModeEnabled: false
+  action: textGeneration
+  textExtractorLabels: []
+  importedQueryDefaults: {}
+  enableTransformer: false
+  showUpdateSetValueDynamicallyToggle: true
+  fileSource: ''
+  filterLabels: []
+  dynamicModelEnabled: false
+  systemMessage: You are a helpful assistant
+  overrideOrgCacheForUserCache: false
+  runWhenPageLoads: false
+  content: ''
+  transformer: return data
+  events: []
+  vectorAction: upsertDocument
+  queryTimeout: '120000'
+  workflowId: null
+  vectorNamespacesDynamicModeEnabled: false
+  requireConfirmation: false
+  queryFailureConditions: ''
+  source: ''
+  imageClassifierLabels: []
+  imageClassifierDynamicModeEnabled: false
+  changesetIsObject: false
+  vectorModeEnabled: false
+  vectorNamespaceIdsFilters: []
+  providerName: openAI
+  enableCaching: false
+  allowedGroups: []
+  chatHistory: ''
+  imageContent: ''
+  offlineQueryType: None
+  queryThrottleTime: '750'
+  updateSetValueDynamically: false
+  notificationDuration: ''
+createdAt: 2025-08-13T02:20:20.689Z
+blockData:
+  top: 96
+  left: 1488
+  uuid: 1e6e8b7f-f35d-4529-9c71-383905d0a8a5
+  pluginId: query1
+  blockType: default
+  editorType: RetoolAIQuery
+  resourceName: retool_ai
+  incomingOnSuccessEdges:
+    - eb09ff10-1826-4abf-9bdf-d7fe563e7e2b
