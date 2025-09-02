@@ -16,6 +16,7 @@
     padding="8px 12px"
     type="main"
   >
+    <Button id="button1" text="Testing UAT Button" />
     <Text id="text1" value="Production hotfix!" verticalAlign="center" />
   </Frame>
 </Screen>
