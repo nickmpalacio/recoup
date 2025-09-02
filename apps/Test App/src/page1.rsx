@@ -16,6 +16,6 @@
     padding="8px 12px"
     type="main"
   >
-    <Text id="text1" value="UAT Version" verticalAlign="center" />
+    <Text id="text1" value="Production hotfix!" verticalAlign="center" />
   </Frame>
 </Screen>
