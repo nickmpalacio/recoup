@@ -18,5 +18,6 @@
   >
     <Button id="button1" text="Testing UAT Button" />
     <Text id="text1" value="Production hotfix!" verticalAlign="center" />
+    <Button id="button2" text="Button" />
   </Frame>
 </Screen>
