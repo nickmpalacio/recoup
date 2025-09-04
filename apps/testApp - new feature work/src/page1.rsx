@@ -18,7 +18,7 @@
   >
     <Text
       id="text1"
-      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
+      value="👋 **Hello {{ current_user.firstName || 'friend' }}!** new commit!"
       verticalAlign="center"
     />
   </Frame>
