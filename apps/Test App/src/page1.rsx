@@ -17,5 +17,6 @@
     type="main"
   >
     <Text id="text1" value="Production hotfix!" verticalAlign="center" />
+    <Button id="button1" text="Button" />
   </Frame>
 </Screen>
