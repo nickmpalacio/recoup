@@ -33,6 +33,7 @@
         text="Transparent"
       />
     </ButtonGroup2>
+    <Button id="button2" text="Button" />
     <Image
       id="image1"
       heightType="fixed"
