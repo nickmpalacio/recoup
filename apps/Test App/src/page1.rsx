@@ -8,6 +8,13 @@
   urlSlug=""
   uuid="1d593fad-abbb-4a32-bed0-e37abf2ec91c"
 >
+  <JavascriptQuery
+    id="helloWorldy"
+    notificationDuration={4.5}
+    query={include("../lib/helloWorldy.js", "string")}
+    resourceName="JavascriptQuery"
+    showSuccessToaster={false}
+  />
   <Frame
     id="$main"
     enableFullBleed={false}
