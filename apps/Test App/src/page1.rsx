@@ -30,5 +30,6 @@
       value="Testing multi-element branching!"
       verticalAlign="center"
     />
+    <Button id="button1" text="Button" />
   </Frame>
 </Screen>
