@@ -2,6 +2,7 @@
   id="page1"
   _customShortcuts={[]}
   _hashParams={[]}
+  _order={0}
   _searchParams={[]}
   browserTitle=""
   title="Page 1"
@@ -24,5 +25,11 @@
     type="main"
   >
     <Text id="text1" value="Production hotfix!" verticalAlign="center" />
+    <Text
+      id="text2"
+      value="Testing multi-element branching!"
+      verticalAlign="center"
+    />
+    <Button id="button1" text="Button" />
   </Frame>
 </Screen>
