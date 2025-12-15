@@ -31,5 +31,12 @@
       verticalAlign="center"
     />
     <Button id="button1" text="Button" />
+    <Module
+      id="testModuleDec2025Lalalallalala1"
+      heightType="fixed"
+      name="Test Module Dec 2025 LALALALLALALA"
+      overflowType="hidden"
+      pageUuid="cd26ba5e-d9fe-11f0-a8f6-ff1f4da45d57"
+    />
   </Frame>
 </Screen>
