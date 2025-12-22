@@ -1,0 +1,358 @@
+{
+  "appTitle": {
+    "row": 0.4,
+    "height": -0.2,
+    "width": 12
+  },
+  "cancelCreateProjectButton": {
+    "rowGroup": "footer",
+    "subcontainer": "modalCreateProject",
+    "height": 1,
+    "width": 4
+  },
+  "cancelCreateTaskButton": {
+    "rowGroup": "footer",
+    "subcontainer": "modalCreateTask",
+    "height": 1,
+    "width": 4
+  },
+  "cancelEditProjectButton": {
+    "rowGroup": "footer",
+    "subcontainer": "modalEditProject",
+    "height": 1,
+    "width": 4
+  },
+  "cancelEditTaskButton": {
+    "rowGroup": "footer",
+    "subcontainer": "modalEditTask",
+    "height": 1,
+    "width": 4
+  },
+  "closeCreateProjectButton": {
+    "rowGroup": "header",
+    "subcontainer": "modalCreateProject",
+    "col": 11,
+    "height": 0.6,
+    "width": 1
+  },
+  "closeCreateTaskButton": {
+    "rowGroup": "header",
+    "subcontainer": "modalCreateTask",
+    "col": 11,
+    "height": 0.6,
+    "width": 1
+  },
+  "closeEditProjectButton": {
+    "rowGroup": "header",
+    "subcontainer": "modalEditProject",
+    "col": 11,
+    "height": 0.6,
+    "width": 1
+  },
+  "closeEditTaskButton": {
+    "rowGroup": "header",
+    "subcontainer": "modalEditTask",
+    "col": 11,
+    "height": 0.6,
+    "width": 1
+  },
+  "createProjectButton": {
+    "container": "projectsSection",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 1.6,
+    "col": 6,
+    "height": 1
+  },
+  "createTaskButton": {
+    "container": "tasksSection",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 1.6,
+    "col": 6,
+    "height": 1
+  },
+  "editProjectDescriptionTextArea": {
+    "subcontainer": "modalEditProject",
+    "row": 0.6,
+    "height": 13,
+    "width": 12
+  },
+  "editProjectEndDateInput": {
+    "subcontainer": "modalEditProject",
+    "row": 2,
+    "col": 6,
+    "height": 5.8,
+    "width": 6
+  },
+  "editProjectNameInput": {
+    "subcontainer": "modalEditProject",
+    "height": 5.8,
+    "width": 6
+  },
+  "editProjectStartDateInput": {
+    "subcontainer": "modalEditProject",
+    "row": 2,
+    "height": 5.8,
+    "width": 6
+  },
+  "editProjectStatusSelect": {
+    "subcontainer": "modalEditProject",
+    "col": 6,
+    "height": 5.8,
+    "width": 6
+  },
+  "editTaskDescriptionTextArea": {
+    "subcontainer": "modalEditTask",
+    "row": 0.6,
+    "height": 7,
+    "width": 12
+  },
+  "editTaskDueDateInput": {
+    "subcontainer": "modalEditTask",
+    "row": 2,
+    "col": 4,
+    "height": 3,
+    "width": 4
+  },
+  "editTaskNameInput": {
+    "subcontainer": "modalEditTask",
+    "height": 3,
+    "width": 6
+  },
+  "editTaskPrioritySelect": {
+    "subcontainer": "modalEditTask",
+    "row": 2,
+    "height": 3,
+    "width": 4
+  },
+  "editTaskProjectSelect": {
+    "subcontainer": "modalEditTask",
+    "row": 2,
+    "col": 8,
+    "height": 3,
+    "width": 4
+  },
+  "editTaskStatusSelect": {
+    "subcontainer": "modalEditTask",
+    "col": 6,
+    "height": 3,
+    "width": 6
+  },
+  "modalCreateProjectTitle": {
+    "rowGroup": "header",
+    "subcontainer": "modalCreateProject",
+    "height": 1.2,
+    "width": 10
+  },
+  "modalCreateTaskTitle": {
+    "rowGroup": "header",
+    "subcontainer": "modalCreateTask",
+    "height": 1.2,
+    "width": 10
+  },
+  "modalEditProjectTitle": {
+    "rowGroup": "header",
+    "subcontainer": "modalEditProject",
+    "height": 1.2,
+    "width": 10
+  },
+  "modalEditTaskTitle": {
+    "rowGroup": "header",
+    "subcontainer": "modalEditTask",
+    "height": 1.2,
+    "width": 10
+  },
+  "projectDescriptionTextArea": {
+    "subcontainer": "modalCreateProject",
+    "row": 0.6,
+    "height": 13,
+    "width": 12
+  },
+  "projectEndDateInput": {
+    "subcontainer": "modalCreateProject",
+    "row": 2,
+    "col": 6,
+    "height": 5.8,
+    "width": 6
+  },
+  "projectNameInput": {
+    "subcontainer": "modalCreateProject",
+    "height": 5.8,
+    "width": 6
+  },
+  "projectSearchInput": {
+    "container": "projectsSection",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 0.6,
+    "col": 2,
+    "height": 4.4,
+    "width": 4
+  },
+  "projectStartDateInput": {
+    "subcontainer": "modalCreateProject",
+    "row": 2,
+    "height": 5.8,
+    "width": 6
+  },
+  "projectStatusFilter": {
+    "container": "projectsSection",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 0.6,
+    "height": 5.8,
+    "width": 2
+  },
+  "projectStatusSelect": {
+    "subcontainer": "modalCreateProject",
+    "col": 6,
+    "height": 5.8,
+    "width": 6
+  },
+  "projectsSection": {
+    "row": 3,
+    "height": 17.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "projectsSectionTitle": {
+    "container": "projectsSection",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "height": 0.4
+  },
+  "projectsTable": {
+    "container": "projectsSection",
+    "subcontainer": "00030",
+    "height": 8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "saveProjectButton": {
+    "rowGroup": "footer",
+    "subcontainer": "modalCreateProject",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "saveTaskButton": {
+    "rowGroup": "footer",
+    "subcontainer": "modalCreateTask",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "taskDescriptionTextArea": {
+    "subcontainer": "modalCreateTask",
+    "row": 0.6,
+    "height": 7,
+    "width": 12
+  },
+  "taskDueDateInput": {
+    "subcontainer": "modalCreateTask",
+    "row": 2,
+    "col": 4,
+    "height": 3,
+    "width": 4
+  },
+  "taskNameInput": {
+    "subcontainer": "modalCreateTask",
+    "height": 3,
+    "width": 6
+  },
+  "taskPrioritySelect": {
+    "subcontainer": "modalCreateTask",
+    "row": 2,
+    "height": 3,
+    "width": 4
+  },
+  "taskProjectSelect": {
+    "subcontainer": "modalCreateTask",
+    "row": 2,
+    "col": 8,
+    "height": 3,
+    "width": 4
+  },
+  "taskSearchInput": {
+    "container": "tasksSection",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 0.6,
+    "col": 2,
+    "height": 1.6,
+    "width": 4
+  },
+  "taskStatusFilter": {
+    "container": "tasksSection",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "row": 0.6,
+    "height": 3,
+    "width": 2
+  },
+  "taskStatusSelect": {
+    "subcontainer": "modalCreateTask",
+    "col": 6,
+    "height": 3,
+    "width": 6
+  },
+  "tasksSection": {
+    "row": 21.2,
+    "height": 15.8,
+    "width": 12
+  },
+  "tasksSectionTitle": {
+    "container": "tasksSection",
+    "rowGroup": "header",
+    "subcontainer": "00030",
+    "height": 0.4
+  },
+  "tasksTable": {
+    "container": "tasksSection",
+    "subcontainer": "00030",
+    "height": 8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "testingTable": {
+    "row": 38.6,
+    "height": 7.6,
+    "width": 11
+  },
+  "updateProjectButton": {
+    "rowGroup": "footer",
+    "subcontainer": "modalEditProject",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "updateTaskButton": {
+    "rowGroup": "footer",
+    "subcontainer": "modalEditTask",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  }
+}
