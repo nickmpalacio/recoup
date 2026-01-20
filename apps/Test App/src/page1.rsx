@@ -31,5 +31,6 @@
       verticalAlign="center"
     />
     <Button id="button1" text="Button" />
+    <Text id="text3" value="Testing deploys" verticalAlign="center" />
   </Frame>
 </Screen>
