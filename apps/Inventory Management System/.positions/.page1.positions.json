@@ -1,0 +1,398 @@
+{
+  "addItemButton": {
+    "row": 0.4,
+    "col": 10,
+    "height": 1,
+    "width": 1
+  },
+  "addModalTitle": {
+    "rowGroup": "header",
+    "subcontainer": "addItemModal",
+    "height": 0.6,
+    "width": 12
+  },
+  "adjustModalTitle": {
+    "rowGroup": "header",
+    "subcontainer": "adjustStockModal",
+    "height": 0.6,
+    "width": 12
+  },
+  "appTitle": {
+    "row": 0.4,
+    "height": 1.2,
+    "width": 10
+  },
+  "cancelAddButton": {
+    "rowGroup": "footer",
+    "subcontainer": "addItemModal",
+    "height": 1,
+    "width": 2
+  },
+  "cancelAdjustButton": {
+    "rowGroup": "footer",
+    "subcontainer": "adjustStockModal",
+    "height": 1,
+    "width": 2
+  },
+  "cancelEditButton": {
+    "rowGroup": "footer",
+    "subcontainer": "editItemDrawer",
+    "height": 1,
+    "width": 2
+  },
+  "categoryFilter": {
+    "container": "filtersContainer",
+    "subcontainer": "00030",
+    "row": 0.4,
+    "col": 3,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "clearFiltersButton": {
+    "container": "filtersContainer",
+    "subcontainer": "00030",
+    "row": 1,
+    "col": 11,
+    "height": 1,
+    "width": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "confirmAddButton": {
+    "rowGroup": "footer",
+    "subcontainer": "addItemModal",
+    "col": 2,
+    "height": 1,
+    "width": 2
+  },
+  "confirmAdjustButton": {
+    "rowGroup": "footer",
+    "subcontainer": "adjustStockModal",
+    "col": 2,
+    "height": 1,
+    "width": 2
+  },
+  "currentItemName": {
+    "subcontainer": "adjustStockModal",
+    "height": 0.6,
+    "width": 12
+  },
+  "currentStockText": {
+    "subcontainer": "adjustStockModal",
+    "row": 1,
+    "height": 0.6,
+    "width": 12
+  },
+  "editDrawerTitle": {
+    "rowGroup": "header",
+    "subcontainer": "editItemDrawer",
+    "height": 0.6,
+    "width": 12
+  },
+  "editItemCategory": {
+    "subcontainer": "editItemDrawer",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "editItemName": {
+    "subcontainer": "editItemDrawer",
+    "height": 0.2,
+    "width": 12
+  },
+  "editItemQuantity": {
+    "subcontainer": "editItemDrawer",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "editItemReorderLevel": {
+    "subcontainer": "editItemDrawer",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "exportButton": {
+    "row": 0.4,
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "fileInput1": {
+    "row": 19,
+    "col": 1,
+    "height": 0.2,
+    "width": 4
+  },
+  "filtersContainer": {
+    "row": 2.2,
+    "height": 2.4,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "inventoryTable": {
+    "container": "tableSectionContainer",
+    "subcontainer": "00030",
+    "row": 1.2,
+    "height": 6.8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "lowStockCard": {
+    "row": 4.6,
+    "col": 4,
+    "height": 2.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "lowStockIcon": {
+    "container": "lowStockCard",
+    "subcontainer": "00030",
+    "col": 9,
+    "height": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "lowStockKpi": {
+    "container": "lowStockCard",
+    "subcontainer": "00030",
+    "height": 0.8,
+    "width": 9,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "newItemCategory": {
+    "subcontainer": "addItemModal",
+    "row": 0.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "newItemName": {
+    "subcontainer": "addItemModal",
+    "height": 0.2,
+    "width": 12
+  },
+  "newItemQuantity": {
+    "subcontainer": "addItemModal",
+    "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "newItemReorderLevel": {
+    "subcontainer": "addItemModal",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "newStockPreview": {
+    "subcontainer": "adjustStockModal",
+    "row": 2.2,
+    "height": 0.6,
+    "width": 12
+  },
+  "outOfStockCard": {
+    "row": 4.6,
+    "col": 8,
+    "height": 2.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "outOfStockIcon": {
+    "container": "outOfStockCard",
+    "subcontainer": "00030",
+    "col": 9,
+    "height": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "outOfStockKpi": {
+    "container": "outOfStockCard",
+    "subcontainer": "00030",
+    "height": 0.8,
+    "width": 9,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "saveEditButton": {
+    "rowGroup": "footer",
+    "subcontainer": "editItemDrawer",
+    "col": 2,
+    "height": 1,
+    "width": 2
+  },
+  "searchInput": {
+    "container": "filtersContainer",
+    "subcontainer": "00030",
+    "row": 0.4,
+    "height": 0.2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 3,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "stockAdjustmentInput": {
+    "subcontainer": "adjustStockModal",
+    "row": 2,
+    "height": 0.2,
+    "width": 12
+  },
+  "stockStatusFilter": {
+    "container": "filtersContainer",
+    "subcontainer": "00030",
+    "row": 0.4,
+    "col": 7,
+    "height": 0.2,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tableHeader": {
+    "container": "tableSectionContainer",
+    "subcontainer": "00030",
+    "height": 1,
+    "width": 8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tableSectionContainer": {
+    "row": 7.2,
+    "height": 8,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text1": {
+    "row": 23,
+    "col": 1,
+    "height": 0.6
+  },
+  "totalItemsCard": {
+    "row": 4.6,
+    "height": 2.6,
+    "width": 4,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "totalItemsIcon": {
+    "container": "totalItemsCard",
+    "subcontainer": "00030",
+    "col": 9,
+    "height": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "totalItemsKpi": {
+    "container": "totalItemsCard",
+    "subcontainer": "00030",
+    "height": 0.8,
+    "width": 9,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  }
+}

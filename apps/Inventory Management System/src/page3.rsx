@@ -1,0 +1,21 @@
+<Screen
+  id="page3"
+  _customShortcuts={[]}
+  _hashParams={[]}
+  _order={2}
+  _searchParams={[]}
+  browserTitle={null}
+  title={null}
+  urlSlug={null}
+  uuid="c1660333-900d-4082-b4db-4910bb9f6bc4"
+>
+  <Frame
+    id="$main3"
+    enableFullBleed={false}
+    isHiddenOnDesktop={false}
+    isHiddenOnMobile={false}
+    padding="8px 12px"
+    sticky={null}
+    type="main"
+  />
+</Screen>
