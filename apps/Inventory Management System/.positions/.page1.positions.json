@@ -354,6 +354,11 @@
     "col": 1,
     "height": 0.6
   },
+  "text2": {
+    "row": 24.2,
+    "col": 1,
+    "height": 0.6
+  },
   "totalItemsCard": {
     "row": 4.6,
     "height": 2.6,

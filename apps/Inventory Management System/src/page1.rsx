@@ -462,5 +462,6 @@
       value="👋 **Hello {{ current_user.metadata.id}}!**"
       verticalAlign="center"
     />
+    <Text id="text2" value="Commit Signing Test!" verticalAlign="center" />
   </Frame>
 </Screen>
